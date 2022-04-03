@@ -1,0 +1,101 @@
+Occupation: student
+Employer: n/a
+Employment Status:  Student
+Insurance Plan: n/a
+Are you:  Single
+Live with:  children pets relatives
+Emergency Contact Person: anita ranganath
+Relation: mother
+Address: 1130 s stelling rd
+Home Phone: 408 996 2123
+Cell Phone: 669 212 0305
+How did you hear about us? (please be specific; include name of website, friend, etc. if applicable): friend
+Would you like to talk to the doctor about any of the following therapies?:  Acupuncture Nutrition/Weight Management IV nutrition
+What are your most important health concerns/symptoms? Please begin with the MOST IMPORTANT to address today.: weight
+What are your health goals?: weight
+List all previous health conditions (please include dates): n/a
+Please list all previous surgeries (include dates): n/a
+Please list all previous hospitalizations/accidents (include dates): n/a
+List any allergies to medications, foods, supplements, environmental: n/a
+Please list all prescription medications you are taking: n/a
+Please list all supplements and products you are taking: n/a
+List current/Recent Health Care Providers (Name, Dates, Care Provided): n/a
+Current height: n/a
+Current weight: 90
+Ideal weight: 105
+Maximum weight: 150
+General Health:  Excellent
+Have you had your cholesterol checked?: No
+Have you had a Pap smear?: Yes
+if yes, have you ever had an abnormal Pap?: No
+Have you had a mammogram?: No
+Have you had a bone density test?: No
+Have you received vaccinations?: No
+Known vaccine reaction?: No
+Difficulty falling asleep?: No
+Do you sleep uninterrupted through the night?: Yes
+How many hours of sleep per night?: 8
+Do you wake refreshed?: Yes
+Do you take sleep aids?: No
+Dietary preferences/restrictions (vegan, gluten free, high protein, etc.): vegetarian
+Breakfast: cereal
+Lunch: rice
+Dinner: rice
+Snacks: chips
+Drinks: water
+How much water do you drink daily?: 4 glasses
+Are you happy with your current diet?: Yes
+If yes, please give details: im happyyyyy
+Do you drink alcohol?: No
+Do you drink caffeine?: No
+Do you smoke or use tobacco?: No
+Recreational drug use?: No
+Do you exercise?: Yes
+If yes, how often?:  1-2 times a week
+Fatigue/low energy: Past symptom
+Insomnia: Past symptom
+Appetite changes: Past symptom
+Unexplained weight loss/gain: Currently has
+Fevers or chills: Past symptom
+Cold intolerance: Past symptom
+Heat intolerance: Past symptom
+Hot flashes: Past symptom
+Night sweats: Past symptom
+Sweat too much: Never a symptom
+Headaches: Never a symptom
+Migraines: Never a symptom
+Dizziness/Fainting: Never a symptom
+Head Injury: Never a symptom
+Hives: Never a symptom
+Eczema/Psoriasis: Never a symptom
+Acne: Never a symptom
+Dry skin: Never a symptom
+Itchy skin: Currently has
+Dandruff: Currently has
+Warts/Moles: Never a symptom
+Skin cancer: Never a symptom
+Hair loss/thinning: Never a symptom
+Weak nails/splitting nails: Never a symptom
+Cuts heal slowly: Never a symptom
+Athlete's foot: Never a symptom
+Corrective eyewear?: No
+Dry eyes: Never a symptom
+Itchy eyes: Never a symptom
+Blurred vision: Never a symptom
+Eyes water excessively: Never a symptom
+Eyes sensitive to light: Never a symptom
+Eyes puffy or bloodshot: Never a symptom
+Night blindness: Never a symptom
+Glaucoma: Never a symptom
+Cataracts: Never a symptom
+Ear pain: Never a symptom
+Ear discharge/wax: Never a symptom
+Ringing in ears: Never a symptom
+Changes in hearing: Never a symptom
+Hearing loss: Never a symptom
+Use hearing aid: Never a symptom
+Congestion: Never a symptom
+Seasonal allergies/hayfever: Never a symptom
+Post nasal drip: Never a symptom
+Nosebleeds: Never a symptom
+Sinus infections: Never a symptom
